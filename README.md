@@ -10,9 +10,17 @@ A lightweight, production-ready React application for testing browser screen sha
 
 ![Home Page](screenshots/home-page.png)
 
-### Screen Test Page (`/screen-test`)
+### Screen Test — Ready to Share (`/screen-test`)
 
 ![Screen Test — Idle State](screenshots/screen-test-idle.png)
+
+### Screen Sharing Active — Live Preview
+
+![Screen Sharing Active](screenshots/screen-sharing-active.png)
+
+### Screen Sharing Stopped — Retry Flow
+
+![Screen Sharing Stopped](screenshots/screen-sharing-stopped.png)
 
 ---
 
